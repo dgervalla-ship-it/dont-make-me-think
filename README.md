@@ -11,7 +11,7 @@ dans `sources/index-sources.md`) et sur une cartographie vérifiable du produit.
 ## Installation
 
 ```bash
-git clone <url> ~/.claude/skills/dont-make-me-think
+git clone https://github.com/dgervalla-ship-it/dont-make-me-think.git ~/.claude/skills/dont-make-me-think
 ```
 
 `SKILL.md` se trouve à la racine du dépôt : le dossier cloné est directement le skill.
